@@ -1,0 +1,5 @@
+apiVersion: v2
+name: catalogue
+version: 1.0.0
+description: "description catalogue for helm chart"
+appVersion: v1

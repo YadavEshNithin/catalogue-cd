@@ -1,0 +1,6 @@
+statefulset:
+  imageUrl: yadaveshnithin/catalogue
+  imageVersion: IMAGE_VERSION
+hpa:
+  maxReplicas: 10
+  utilization: 10
