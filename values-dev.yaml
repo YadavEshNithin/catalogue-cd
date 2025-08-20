@@ -1,5 +1,6 @@
 statefulset:
-  imageUrl: yadaveshnithin/catalogue
+  # imageUrl: yadaveshnithin/catalogue
+  imageUrl: 010666226306.dkr.ecr.us-east-1.amazonaws.com/roboshop/catalogue
   imageVersion: IMAGE_VERSION
 hpa:
   maxReplicas: 10
