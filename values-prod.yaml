@@ -5,5 +5,3 @@ statefulset:
 hpa:
   maxReplicas: 10
   utilization: 10
-configmap:
-  mongodb: "mongodb://mongodb:27017/catalogue"
